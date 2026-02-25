@@ -1,0 +1,12 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.membership {
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.membership:hover {
+  background-color: #f8f9fa;
+}
