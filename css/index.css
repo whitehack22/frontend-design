@@ -2,11 +2,52 @@ body {
   font-family: 'Segoe UI', sans-serif;
 }
 
+/* Profile Card */
+.profile-card {
+  background: #3f3f3f;
+  border-radius: 16px;
+}
+
+/* Stats */
+.stat-card {
+  border-radius: 12px;
+  padding: 10px;
+  text-align: center;
+  font-size: 0.75rem;
+}
+
+.stat-card h5 {
+  margin: 4px 0 0;
+  font-weight: bold;
+}
+
+/* Soft colors */
+.pink { background: #f8d7da; }
+.green { background: #d4edda; }
+.yellow { background: #fff3cd; }
+
+/* Membership */
 .membership {
   cursor: pointer;
-  transition: background 0.3s;
+  border-radius: 12px;
+  transition: all 0.3s ease;
 }
 
 .membership:hover {
-  background-color: #f8f9fa;
+  transform: scale(1.01);
 }
+
+/* Membership types */
+.foundation {
+  background: #f5c542;
+}
+
+.economy {
+  background: #adb5bd;
+}
+
+.membership-desc {
+  font-size: 0.8rem;
+  margin-top: 8px;
+}
+
