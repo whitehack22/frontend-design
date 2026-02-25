@@ -52,5 +52,5 @@ frontend-assessment/
 ---
 
 ## 👤 Author
-Frontend Assessment Project  
-© 2025 – All Rights Reserved
+Ryan Mugo 
+© 2026 – All Rights Reserved
